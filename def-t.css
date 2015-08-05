@@ -12,5 +12,8 @@
 
 .mk-animate-element{
 	opacity: 1;
+}
+
+.mk-image-inner{
 	padding: 1em;
 }
