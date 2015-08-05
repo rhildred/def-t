@@ -19,10 +19,11 @@
 }
 
 p, .mk-box-icon-2-content {
-	font-size: 14px;
+	font-size: 14px!important;
 	padding-right: 2em;
 }
 
 .textsection1 p {
   font-size: 1em;
 }
+
