@@ -23,4 +23,9 @@ p, .mk-box-icon-2-content {
 	padding-right: 2em;
 }
 
+mk-image-shortcode mk-shortcode{
+	max-width: 250px;
+	
+}
+
 
