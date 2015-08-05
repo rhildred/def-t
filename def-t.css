@@ -18,32 +18,11 @@
 	padding: 1em;
 }
 
-.mk-quick-contact-wrapper {
-	display: none;
+p, .mk-box-icon-2-content {
+	font-size: 14px;
+	padding-right: 2em;
 }
-.shopping-cart-header{
-        display:none;
-}
-.responsive-searchform {
-    display: inline-block;
-    margin: 10px;
-    float: right;
-}
-.responsive-searchform .text-input{
-         padding: 10px;
-}
-#mk-header {
-    height:95px;
-    background-color: #ffffff;
-    border-bottom: none;
 
+.textsection1 p {
+  font-size: 1em;
 }
- /*#mk-breadcrumbs .mk-breadcrumbs-inner {
-    margin: 0px 20px -10px 50px;
-    } Disabled breadcrumbs */
-.mk-grid{
-margin: 10px 30px;
-}
-.page-introduce-title{
-margin: 10px 20px 20px 30px;
-} /*original: 25px 20px 15px*/
