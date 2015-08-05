@@ -1,2 +1,15 @@
 /* special css for the project goes here
 */
+
+.header-style-4 .mk-header-inner {
+  	width: 220px!important;
+}
+
+
+.vertical-header-enabled.vertical-header-center #mk-theme-container:not(.mk-transparent-header), .vertical-header-enabled.vertical-header-left #mk-theme-container:not(.mk-transparent-header){
+	padding-left: 220px;
+}
+
+.mk-animate-element{
+	opacity: 1;
+}
