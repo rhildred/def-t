@@ -24,5 +24,9 @@ mk-image-shortcode mk-shortcode{
 	max-width: 250px;
 }
 
+.shopping-cart-header{
+	display:none;
+}
+
 
 
