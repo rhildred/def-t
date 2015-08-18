@@ -27,4 +27,16 @@ p, .mk-box-icon-2-content {
 .shopping-cart-header{
 	display:none;
 }
+#mk-page-introduce.intro-left {
+    text-align: left;
+    width: 50%;
+}
+.responsive-searchform {
+    margin-top: -70px;
+    margin-right: 20px;
+    position: relative;
+    display: inline-block;
+    float: right;
+}
+
 
