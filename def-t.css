@@ -27,13 +27,6 @@ mk-image-shortcode mk-shortcode{
 .shopping-cart-header{
 	display:none;
 }
- .mk-image-inner{
- 	padding: 1em;
- }
-
-.mk-quick-contact-wrapper {
-	display: none;
-}
 
 .responsive-searchform {
     display: inline-block;
@@ -52,10 +45,7 @@ mk-image-shortcode mk-shortcode{
 /*#mk-breadcrumbs .mk-breadcrumbs-inner {
     margin: 0px 20px -10px 50px;
     } Disabled breadcrumbs */
-    
- .mk-grid{
-margin: 10px 30px;
-}
+
 .page-introduce-title{
 margin: 10px 20px 20px 30px;
 } /*original: 25px 20px 15px*/
