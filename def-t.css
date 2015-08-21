@@ -50,5 +50,6 @@ p, .mk-box-icon-2-content {
     float: left;
 }
 #mk-header-social.header-section.hidden {
-    opacity: 10;
+    opacity: 1;
+    visibility: visible;
 }
