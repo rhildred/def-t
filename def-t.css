@@ -43,3 +43,9 @@ p, .mk-box-icon-2-content {
     opacity: 1;
     visibility: visible;
 }
+.vertical-header-enabled.logo-align-right .header-logo img{
+	left:10px !important;
+	max-width:90% !important;
+	right:20px !important;
+}
+}
