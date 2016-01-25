@@ -56,3 +56,7 @@ p, .mk-box-icon-2-content {
 .page-introduce-title{
 	margin: 5px 20px 15px;
 }
+
+.page-introduce-subtitle{
+	float:left;
+}
