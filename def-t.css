@@ -49,3 +49,7 @@ p, .mk-box-icon-2-content {
 	right:20px !important;
 }
 
+.vc_clearfix{
+	clear:both;
+}
+
