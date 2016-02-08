@@ -57,10 +57,15 @@ p, .mk-box-icon-2-content {
 	margin: 5px 20px 15px;
 }
 
+
 .page-introduce-subtitle{
 	float:left;
 }
 
 #tribe-events-bar{
 	margin: 10px 0;
+}
+
+#beanstream_card_type option[value=Discover]{
+	display:none;
 }
