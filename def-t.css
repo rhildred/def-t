@@ -69,3 +69,9 @@ p, .mk-box-icon-2-content {
 #beanstream_card_type option[value=Discover]{
 	display:none;
 }
+
+#tab-additional_information option[value=Additional_Information]{
+	display:none;
+	
+}
+
