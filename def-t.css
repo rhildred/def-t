@@ -70,11 +70,4 @@ p, .mk-box-icon-2-content {
 	display:none;
 }
 
-#tab-additional_information option[value=Additional_Information]{
-	display:none;
-	
-}
-.rpw-product-message{
-	display:<div>Add recipient Name, Address, Message is optional;</div>
-}
 
